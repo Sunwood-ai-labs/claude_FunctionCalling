@@ -1,7 +1,7 @@
 
 ![](https://raw.githubusercontent.com/Sunwood-ai-labs/claude_FunctionCalling/main/docs/icon.png)
 
-# claude_FunctionCalling
+# Claude FunctionCalling Tutorial
 
 **クロードを使った関数呼び出しのデモ**
 
